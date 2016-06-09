@@ -1,0 +1,429 @@
+Initialize engine version: 5.1.3p2 (bebcb01d8ab6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1995 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.525 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.dll (this message is harmless)
+Game mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.731288 ms
+Machine ID: b9c852bf29cc08487898ce8a4ece5317384c4563
+Model: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz (8120 MB)
+OS: Windows 8.1  (6.3.10240) 64bit
+Language: English
+CPU: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz (4 core(s))
+System Memory: 8120
+Gfx Device: NVIDIA GeForce 840M
+Gfx Version: Direct3D 11.0 [level 11.0]
+Gfx Memory: 1995
+Gfx Shader Model: 50
+Game Version: 1.5.0-f4-steam-win
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Setting initial resolution to 1600 900 True  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Setting vsync to 2  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Raw Command Line: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities.exe
+Arguments: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities.exe
+  [CommandLine - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\Games\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Xml.dll (this message is harmless)
+Adding package 'Cliffside Bay' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Cliffside Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'System' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\CO.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'Foggy Hills' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Foggy Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'Grand River' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Grand River.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'NorthEurope1FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'NorthEurope2FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'NorthEurope3FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'SouthEurope1FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'SouthEurope2FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'SouthEurope3FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'Tropical1FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'Tropical2FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'Tropical3FINAL' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'Winter1Final' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter1Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'Winter2Final' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter2Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'Winter3Final' [D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter3Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package '693953856' [D:\Games\Steam\steamapps\workshop\content\255710\693953856\Car Transporter A.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package '2L 1W Road Ramp' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L 1W Road Ramp.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package '2L 1W Road' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L 1W Road.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package '2L Cloverleaf 2' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L Cloverleaf 2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package '2L Cloverleaf 3' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L Cloverleaf 3.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package '2L Cloverleaf' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L Cloverleaf.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package '2W Ground Elevated Off-Ramp' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2W Ground Elevated Off-Ramp.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Adding package 'My First Try' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Saves\My First Try.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\colossal.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Telemetry enabled  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Mods\HardMode\HardMode.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Non platform assembly: data-00000000158ED4C0 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000158ED4C0.dll
+Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedMoney\UnlimitedMoney.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Non platform assembly: data-0000000018EB8D20 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000018EB8D20.dll
+Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading D:\Games\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlockAll\UnlockAll.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Non platform assembly: data-0000000018EB9B30 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000018EB9B30.dll
+Assembly UnlockAll3, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading D:\Games\Steam\steamapps\workshop\content\255710\445589127\PrecisionEngineering.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Non platform assembly: data-0000000018F1BEF0 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000018F1BEF0.dll
+Assembly PrecisionEngineering, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading D:\Games\Steam\steamapps\workshop\content\255710\651322972\FineRoadTool.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Non platform assembly: data-0000000018F4CC70 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000018F4CC70.dll
+Assembly FineRoadTool, Version=1.0.5977.33439, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\FineRoadTool.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Simulation started  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1915.
+Total: 8.845162 ms (FindLiveObjects: 0.122308 ms CreateObjectMapping: 0.090234 ms MarkObjects: 8.607388 ms  DeleteObjects: 0.017533 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.046896 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1953.
+Total: 10.725986 ms (FindLiveObjects: 0.153527 ms CreateObjectMapping: 0.135138 ms MarkObjects: 10.355209 ms  DeleteObjects: 0.080398 ms)
+
+Loading simulation data from: BuiltinTerrainMap-Sunny_Data  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Type legacy conversion occurred: 'WindManager+Data, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' -> 'WeatherManager+Data, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' (Harmless message)  [Serialization - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1436.610107 ms
+
+Unloading 4488 unused Assets to reduce memory usage. Loaded Objects now: 3356.
+Total: 15.290761 ms (FindLiveObjects: 0.516605 ms CreateObjectMapping: 0.419528 ms MarkObjects: 10.940239 ms  DeleteObjects: 3.413532 ms)
+
+Loading custom asset Car Transporter A_trailer from 'Car Transporter A_trailer' [CustomAssetMetaData, 41ba6f306409d9bc3cbe016a35b400b4, in package ''693953856' [D:\Games\Steam\steamapps\workshop\content\255710\693953856\Car Transporter A.crp]' (2654109, 2048)]  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading custom asset Car Transporter A from 'Car Transporter A' [CustomAssetMetaData, 11b9ddecd59cd6da69bd70d7e21d29cd, in package ''693953856' [D:\Games\Steam\steamapps\workshop\content\255710\693953856\Car Transporter A.crp]' (5221810, 4096)]  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading custom asset 2L 1W Road Ramp from '2L 1W Road Ramp' [CustomAssetMetaData, 05fa80106c324c380035677486224842, in package ''2L 1W Road Ramp' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L 1W Road Ramp.crp]' (559624, 2048)]  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading custom asset 2L 1W Road from '2L 1W Road' [CustomAssetMetaData, 25965e09e7439cc00a0b04b45edae5ce, in package ''2L 1W Road' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L 1W Road.crp]' (559533, 2048)]  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading custom asset 2L Cloverleaf from '2L Cloverleaf 2' [CustomAssetMetaData, ec3fc7b1ccee3da2de7e0b14e7bbddac, in package ''2L Cloverleaf 2' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L Cloverleaf 2.crp]' (660591, 2048)]  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading custom asset 2L Cloverleaf 3 from '2L Cloverleaf 3' [CustomAssetMetaData, 2cd2583186f309c3ce814dc03c0d62b7, in package ''2L Cloverleaf 3' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L Cloverleaf 3.crp]' (910910, 4096)]  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading custom asset 2L Cloverleaf from '2L Cloverleaf' [CustomAssetMetaData, 6768c7652a97163a09a9e4fbce93dcab, in package ''2L Cloverleaf' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2L Cloverleaf.crp]' (560632, 2048)]  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loading custom asset 2W Ground Elevated Off-Ramp from '2W Ground Elevated Off-Ramp' [CustomAssetMetaData, 822ca38481aa795dd3729a9d5ecc399c, in package ''2W Ground Elevated Off-Ramp' [C:\Users\msupetran\AppData\Local\Colossal Order\Cities_Skylines\Addons\Assets\2W Ground Elevated Off-Ramp.crp]' (606813, 4096)]  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Loaded simulation data from: BuiltinTerrainMap-Sunny_Data  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[Fine Road Tool 0.9.12] Upgrade button template not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[Fine Road Tool 0.9.12] Registered roads:
+Pedestrian Gravel
+Pedestrian Pavement
+Basic Road
+Large Road
+Gravel Road
+Medium Road
+Highway
+Basic Road Decoration Trees
+HighwayRamp
+Highway Barrier
+Oneway Road
+Medium Road Decoration Trees
+Medium Road Decoration Grass
+Basic Road Decoration Grass
+Large Road Decoration Grass
+Oneway Road Decoration Grass
+Oneway Road Decoration Trees
+Large Road Decoration Trees
+Large Oneway
+Large Oneway Decoration Grass
+Large Oneway Decoration Trees
+Train Track
+Train Station Track
+Pedestrian Connection
+Train Cargo Track
+Harbor Road
+Pedestrian Connection Surface
+Train Connection Track
+Pedestrian Connection Inside
+Pedestrian Connection Underground
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[Fine Road Tool 0.9.12] Initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The following mods were used when this asset was created: 
+445589127
+651322972
+  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[Fine Road Tool 0.9.12] Activated: Basic Road selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[Fine Road Tool 0.9.12] Deactivated
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Waiting for simulation to quit...  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Simulation terminated  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at ColossalFramework.UI.UIComponent.get_cachedTransform () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.set_relativePosition (Vector3 value) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.ArrangeTabs () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.OnComponentRemoved (ColossalFramework.UI.UIComponent child) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GameSettings Monitor Exiting...  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+GameSettings terminated  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at ColossalFramework.UI.UIComponent.get_cachedTransform () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.set_relativePosition (Vector3 value) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.ArrangeTabs () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.OnComponentRemoved (ColossalFramework.UI.UIComponent child) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at ColossalFramework.UI.UIComponent.get_cachedTransform () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.set_relativePosition (Vector3 value) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.ArrangeTabs () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.OnComponentRemoved (ColossalFramework.UI.UIComponent child) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.UpdateComponentHierarchy (Boolean force) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.Find (System.String searchName, System.Type type) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.Find (System.String searchName, System.Type type) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIView.FindUIComponent (System.String searchName, System.Type type) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIView.FindUIComponent[UILabel] (System.String searchName) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIView.Find[UILabel] (System.String searchName) [0x00000] in <filename unknown>:0 
+  at ToolBase.get_cursorInfoLabel () [0x00000] in <filename unknown>:0 
+  at ToolBase.OnDisable () [0x00000] in <filename unknown>:0 
+  at BuildingTool.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at ColossalFramework.UI.UIComponent.get_cachedTransform () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.set_relativePosition (Vector3 value) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.ArrangeTabs () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.OnComponentRemoved (ColossalFramework.UI.UIComponent child) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at ColossalFramework.UI.UIComponent.get_cachedTransform () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.set_relativePosition (Vector3 value) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.ArrangeTabs () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UITabContainer.OnComponentRemoved (ColossalFramework.UI.UIComponent child) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.UI.UIComponent.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
