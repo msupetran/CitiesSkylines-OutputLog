@@ -1,0 +1,4 @@
+#ignore files and folders
+*
+#except the output log file
+!output_log.txt
